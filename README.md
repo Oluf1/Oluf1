@@ -1,16 +1,23 @@
-## Hi there 👋
+# ***Hallo*** ich bin Oliver
 
-<!--
-**Oluf1/Oluf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Gymnasialer Oberschüler
 
-Here are some ideas to get you started:
+### Interessen:
+  Softwareentwicklung
+  Videospielentwicklung
+  Ausdauersport
+  Künstliche Intelligenz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+  Git
+  Python
+
+### Projekte:
+  Passwort Manager(https://github.com/Oluf1/Passwort_Manager)
+    Ein einfacher tkinter basierter Passwortmanager welcher AESGCM256 sowie eine Masterpassword Struktur nutzt.
+    Dieses Projekt hat mir besonders geholfen Objekt orientierte Prinzipien zu verstehen und anzuwenden.(Ich lerne immernoch mithilfe dieses Projektes)
+  Minesweeper(https://github.com/Oluf1/Minesweeper)
+    Ein tkinter basierendes barebones Minesweeper spiel 
+    DIeses Projekt hab ich mir erstellt um rekursion besser zu verstehen und anzuwenden.
+  
+
